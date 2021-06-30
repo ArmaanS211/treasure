@@ -29,7 +29,7 @@ path.velocityY = 4;
 
 //creating boy running
 boy = createSprite(70,580,20,20);
-boy.addAnimation("SahilRunning",b oyImg);
+boy.addAnimation("SahilRunning",boyImg);
 boy.scale=0.08;
 boy.setCollider("circle", 0, 10, 500)
   
